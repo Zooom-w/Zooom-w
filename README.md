@@ -14,12 +14,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/564x/91/3b/fd/913bfd09110eed5a1d7ebd62fe9e8b2b.jpg"  />
-</div>
-
-###
-
 <h2 align="left">J'orchestre avec 🎼 :</h2>
 
 ###
