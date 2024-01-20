@@ -14,6 +14,13 @@
 
 ###
 
+<details>
+  <summary>Cliquez pour afficher/masquer le contenu</summary>
+  
+  <!-- Le contenu que vous souhaitez afficher/masquer -->
+  <p>
+
+
 <h2 align="left">J'orchestre avec 🎼 :</h2>
 
 ###
@@ -63,5 +70,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
+</p>
+
+</details>
 
 ###
