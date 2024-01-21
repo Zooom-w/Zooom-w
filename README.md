@@ -15,7 +15,7 @@
 ###
 
 <details>
-  <summary>Cliquez pour afficher/masquer le contenu</summary>
+  <summary>CLIQUEZ POUR EN SAVOIR PLUS</summary>
   
   <!-- Le contenu que vous souhaitez afficher/masquer -->
   <p>
