@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Fascinée par les mystères du code, je considère chaque projet comme une aventure à part entière. Ma curiosité sans limite me pousse à explorer et à apprendre continuellement.<br>Ouverte à la collaboration et animée par la créativité, je crois fermement que l'innovation se trouve à l'intersection du développement et de l'imagination. Rejoignez-moi pour créer, apprendre et partager cette passion captivante du monde du développement ! 🌍</p>
+<p align="left">Fascinée par les mystères du code, je considère chaque projet comme une aventure à part entière. Ma curiosité sans limite me pousse à explorer et à apprendre continuellement.<br>Ouverte à la collaboration et animée par la créativité, je crois fermement que l'innovation se trouve à l'union du développement et de l'imagination. Rejoignez-moi pour créer, apprendre et partager cette passion captivante du monde du développement ! 🌍</p>
 
 ###
 
